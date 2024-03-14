@@ -1,1 +1,6 @@
 streamlit
+opencv-python
+numpy
+matplotlib
+dlib-bin
+icecream
